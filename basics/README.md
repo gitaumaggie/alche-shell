@@ -1,3 +1,4 @@
 # Shell basics
-This contains my first project
+this contains my first project
+1-listit is a list command
 
