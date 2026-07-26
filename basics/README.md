@@ -4,3 +4,4 @@ this contains my first project
 navigating using a working directory
 navigating using the command ls-l
 using the ls-la command
+listing numbers 
